@@ -33,7 +33,7 @@
     "path": "^0.12.7",
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.1",
-    "razzle": "^2.4.1",
+    "razzle": "^4.2.18",
     "razzle-plugin-flow": "^1.0.0",
     "react": "^16.4.2",
     "react-chartjs-2": "^2.7.4",
