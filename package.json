@@ -93,7 +93,7 @@
     "style-loader": "^0.21.0",
     "webpack": "^4.16.5",
     "webpack-bundle-analyzer": "^2.11.1",
-    "webpack-cli": "^3.1.0",
+    "webpack-cli": "^3.3.12",
     "webpack-isomorphic-tools": "^3.0.5",
     "webpack-node-externals": "^1.7.2"
   }
